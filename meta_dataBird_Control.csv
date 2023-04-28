@@ -1,0 +1,10 @@
+MU_code,management_unit,site_number,year,timesincelogging,timeframe,forest_type ,x,y,100m_buffer,200m_buffer,500m_buffer,1000m_buffer,avg_treesharvest,avg_skidtrail,avg_feeder,avg_secondary
+Control-1after,control1,1,2013,1,post1,mora,295181,497630,0,0,0,0,0,0,0,0
+Control-1after2,control1,2,2021,10,post10,mora,295181,497630,0,0,0,0,0,0,0,0
+Control-1before,control1,3,2010,0,pre_logged,mora,295181,497630,0,0,0,0,0,0,0,0
+Control-2after,control2,4,2013,1,post1,greenheart_mixed,294991,498708,0,0,0,0,0,0,0,0
+Control-2after2,control2,5,2021,10,post10,greenheart_mixed,294991,498708,0,0,0,0,0,0,0,0
+Control-2before,control2,6,2010,0,pre_logged,greenheart_mixed,294991,498708,0,0,0,0,0,0,0,0
+Control-3after2,control3,7,2021,10,post10,mora_mixed,296143,498592,0,0,0,0,0,0,0,0
+Control-3before,control3,8,2010,0,pre_logged,mora_mixed,296143,498592,0,0,0,0,0,0,0,0
+Control-3after,control3,9,2013,1,post1,mora_mixed,296143,498592,0,0,0,0,0,0,0,0

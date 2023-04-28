@@ -1,0 +1,43 @@
+MU_code,management_unit,year,site_number,timeframe,timesincelogging,forest_type ,x,y,100m_buffer,200m_buffer,500m_buffer,1000m_buffer,avg_treesharvest,avg_skidtrail,avg_feeder,avg_secondary
+E6-1Logged,E6,2013,1,post1,1,greenheart ,310504,508982,0,10,79,274,90.75,0.19,0.35,0.71
+E6-1Logged_2,E6,2020,2,post10,10,greenheart ,310504,508982,0,10,79,274,90.75,0.19,0.35,0.71
+E6-1Unlogged,E6,2009,3,pre_logged,0,greenheart ,310504,508982,0,0,0,0,0,0.19,0.35,0.71
+E6-2Logged,E6,2013,4,post1,1,greenheart ,310490,507982,1,22,186,542,187.75,0.19,0.35,0.71
+E6-2Logged_2,E6,2020,5,post10,10,greenheart ,310490,507982,1,22,186,542,187.75,0.19,0.35,0.71
+E6-2Unlogged,E6,2009,6,pre_logged,0,greenheart ,310490,507982,0,0,0,0,0,0.19,0.35,0.71
+K39-1Logged,K39,2012,7,post1,1,general_mixed,305002,510025,14,32,102,348,124,0.18,0.65,0.54
+K39-1Logged_2,K39,2020,8,post10,10,general_mixed,305002,510025,14,32,102,348,124,0.18,0.65,0.54
+K39-1Unlogged,K39,2009,9,pre_logged,0,general_mixed,305002,510025,0,0,0,0,0,0.18,0.65,0.54
+K39-2Logged,K39,2012,10,post1,1,general_mixed,304001,510016,7,43,205,843,274.5,0.18,0.65,0.54
+K39-2Logged_2,K39,2020,11,post10,10,general_mixed,304001,510016,7,43,205,843,274.5,0.18,0.65,0.54
+K39-2Unlogged,K39,2009,12,pre_logged,0,general_mixed,304001,510016,0,0,0,0,0,0.18,0.65,0.54
+K39-3Logged,K39,2012,13,post1,1,general_mixed,303001,510017,16,49,242,414,180.25,0.18,0.65,0.54
+K39-3Logged_2,K39,2020,14,post10,10,general_mixed,303001,510017,16,49,242,414,180.25,0.18,0.65,0.54
+K39-3Unlogged,K39,2009,15,pre_logged,0,general_mixed,303001,510017,0,0,0,0,0,0.18,0.65,0.54
+K39-4Logged,K39,2012,16,post1,1,greenheart,302017,510004,14,33,113,414,143.5,0.18,0.65,0.54
+K39-4Logged_2,K39,2020,17,post10,10,greenheart,302017,510004,14,33,113,414,143.5,0.18,0.65,0.54
+K39-4Unlogged,K39,2009,18,pre_logged,0,greenheart,302017,510004,0,0,0,0,0,0.18,0.65,0.54
+K41-1Logged,K41,2011,19,post1,1,soft_wallaba,307997,510429,0,4,130,445,144.75,0.22,0.32,0.61
+K41-1Logged_2,K41,2020,20,post10,10,soft_wallaba,307997,510429,0,4,130,445,144.75,0.22,0.32,0.61
+K41-1Unlogged,K41,2008,21,pre_logged,0,soft_wallaba,307997,510429,0,0,0,0,0,0.22,0.32,0.61
+K41-2Logged,K41,2011,22,post1,1,greenheart_mixed,306988,510437,5,12,272,765,263.5,0.22,0.32,0.61
+K41-2Logged_2,K41,2020,23,post10,10,greenheart_mixed,306988,510437,5,12,272,765,263.5,0.22,0.32,0.61
+K41-2Unlogged,K41,2008,24,pre_logged,0,greenheart_mixed,306988,510437,0,0,0,0,0,0.22,0.32,0.61
+K41-3Logged,K41,2011,25,post1,1,greenheart_mixed,305997,510436,14,39,207,635,223.75,0.22,0.32,0.61
+K41-3Logged_2,K41,2020,26,post10,10,greenheart_mixed,305997,510436,14,39,207,635,223.75,0.22,0.32,0.61
+K41-3Unlogged,K41,2008,27,pre_logged,0,greenheart_mixed,305997,510436,0,0,0,0,0,0.22,0.32,0.61
+K41-4Logged,K41,2011,28,post1,1,morei_scrub,305016,510432,0,10,108,341,114.75,0.22,0.32,0.61
+K41-4Logged_2,K41,2020,29,post10,10,morei_scrub,305016,510432,0,10,108,341,114.75,0.22,0.32,0.61
+K41-4Unlogged,K41,2008,30,pre_logged,0,morei_scrub,305016,510432,0,0,0,0,0,0.22,0.32,0.61
+K43-1Logged,K43,2012,31,post1,1,general_mixed,306639,508039,4,10,75,370,114.75,0.19,0.25,0
+K43-1Logged_2,K43,2020,32,post10,10,general_mixed,306639,508039,4,10,75,370,114.75,0.19,0.25,0
+K43-1Unlogged,K43,2010,33,pre_logged,0,general_mixed,306639,508039,0,0,0,0,0,0.19,0.25,0
+K43-2Logged,K43,2012,34,post1,1,general_mixed,305638,508026,1,9,163,573,186.5,0.19,0.25,0
+K43-2Logged_2,K43,2020,35,post10,10,general_mixed,305638,508026,1,9,163,573,186.5,0.19,0.25,0
+K43-2Unlogged,K43,2010,36,pre_logged,0,general_mixed,305638,508026,0,0,0,0,0,0.19,0.25,0
+K43-3Logged,K43,2012,37,post1,1,general_mixed,304687,508035,6,32,175,645,214.5,0.19,0.25,0
+K43-3Logged_2,K43,2020,38,post10,10,general_mixed,304687,508035,6,32,175,645,214.5,0.19,0.25,0
+K43-3Unlogged,K43,2010,39,pre_logged,0,general_mixed,304687,508035,0,0,0,0,0,0.19,0.25,0
+K43-4Logged,K43,2012,40,post1,1,general_mixed,303668,508016,3,36,243,719,250.25,0.19,0.25,0
+K43-4Logged_2,K43,2020,41,post10,10,general_mixed,303668,508016,3,36,243,719,250.25,0.19,0.25,0
+K43-4Unlogged,K43,2010,42,pre_logged,0,general_mixed,303668,508016,0,0,0,0,0,0.19,0.25,0
